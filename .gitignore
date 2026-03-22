@@ -31,8 +31,12 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+### IDEs ###
 .vscode/
+.idea
+.Claude
+CLAUDE.md
+.remember
 
 ### Mac OS ###
 .DS_Store
